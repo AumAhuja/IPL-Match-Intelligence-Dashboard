@@ -1,3 +1,16 @@
+---
+title: IPL Match Intelligence Dashboard
+emoji: 🏏
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.35.0
+app_file: app.py
+pinned: false
+---
+
+# IPL Match Intelligence Dashboard
+
 # 🏏 IPL 2026 Match Intelligence Dashboard
 
 ## ✅ PROJECT COMPLETE - All Requirements Delivered
